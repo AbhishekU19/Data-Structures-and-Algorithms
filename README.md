@@ -38,21 +38,16 @@ To get started with this repository, follow these steps:
 1. Clone the repository to your local machine:
    https://github.com/AbhishekU19/Data-Structures-and-Algorithms.git
 
-Contributing
+## Contributing
+
 Contributions to this repository are welcome! Whether you want to add more practice questions, improve existing solutions, or fix any issues, please follow these steps:
 
-Fork the repository to your GitHub account.
-Create a new branch for your contributions:
+1. Fork the repository to your GitHub account.
+2. Create a new branch for your contributions:
+3. Commit your changes with meaningful commit messages:
+4. git commit -m "Add a solution for problem X" or "Improve algorithm for problem Y"
+5. Push your changes to your forked repository:
 
-git checkout -b feature/your-feature-name
-Make your changes, add your solutions, or make improvements.
-
-Commit your changes with meaningful commit messages:
-
-git commit -m "Add solution for problem X" or "Improve algorithm for problem Y"
-Push your changes to your forked repository:
-
-git push origin feature/your-feature-name
 Create a pull request (PR) to the original repository, explaining your changes and improvements.
 
 Your PR will be reviewed, and once approved, it will be merged into the main repository.
