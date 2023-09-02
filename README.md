@@ -19,15 +19,15 @@ Feel free to explore the questions, solve them, and compare your solutions with 
 
 The following DSA topics are included in this repository:
 
-1. [Arrays](./arrays)
-2. [Strings](./strings)
-3. [Stacks](./stacks)
-4. [Queues](./queues)
-5. [Linked Lists](./linked-lists)
-6. [Recursion](./recursion)
-7. [Dynamic Programming](./dynamic-programming)
-8. [Graphs](./graphs)
-9. [Trees](./trees)
+1. Arrays
+2. Strings
+3. Stacks
+4. Queues
+5. Linked Lists
+6. Recursion
+7. Dynamic Programming
+8. Graphs
+9. Trees
 
 Each topic directory contains its own set of practice questions and solutions. You can navigate to each directory to find specific questions related to that topic.
 
@@ -36,8 +36,7 @@ Each topic directory contains its own set of practice questions and solutions. Y
 To get started with this repository, follow these steps:
 
 1. Clone the repository to your local machine:
-2. 
-   git clone https://github.com/AbhishekU19/Data Structures and Algorithms.git
+   https://github.com/AbhishekU19/Data-Structures-and-Algorithms.git
 
 Contributing
 Contributions to this repository are welcome! Whether you want to add more practice questions, improve existing solutions, or fix any issues, please follow these steps:
