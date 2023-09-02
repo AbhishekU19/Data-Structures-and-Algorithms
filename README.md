@@ -1,5 +1,5 @@
 # Data-Structures-and-Algorithms
-Welcome to my Data Structures and Algorithms (DSA) practice questions repository! This repository contains a collection of DSA practice questions spanning various topics, including arrays, strings, stacks, queues, linked lists, recursion, dynamic programming, graphs, and trees.
+Welcome to my Data Structures and Algorithms (DSA) practice questions repository! This repository contains a collection of DSA practice questions spanning various topics, including Object-oriented Programming (OOPs), Java Basics, arrays, strings, stacks, queues, linked lists, recursion, dynamic programming, graphs, and trees.
 
 ## Table of Contents
 
@@ -18,16 +18,17 @@ Feel free to explore the questions, solve them, and compare your solutions with 
 ## Topics
 
 The following DSA topics are included in this repository:
-
-1. Arrays
-2. Strings
-3. Stacks
-4. Queues
-5. Linked Lists
-6. Recursion
-7. Dynamic Programming
-8. Graphs
-9. Trees
+1. Java Basics
+2. Arrays
+3. Strings
+4. Stacks
+5. Object-Oriented Programming(OOP)
+6. Queues
+7. Linked Lists
+8. Recursion
+9. Graphs
+10. Trees
+11. Dynamic Programming
 
 Each topic directory contains its own set of practice questions and solutions. You can navigate to each directory to find specific questions related to that topic.
 
