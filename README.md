@@ -1,0 +1,59 @@
+# Data-Structures-and-Algorithms
+Welcome to my Data Structures and Algorithms (DSA) practice questions repository! This repository contains a collection of DSA practice questions spanning various topics, including arrays, strings, stacks, queues, linked lists, recursion, dynamic programming, graphs, and trees.
+
+## Table of Contents
+
+- Introduction
+- Topics
+- Getting Started
+- Contributing
+
+
+## Introduction
+
+In the field of computer science and software development, mastering data structures and algorithms is crucial. This repository is a compilation of practice questions that cover a wide range of DSA topics, designed to help you strengthen your problem-solving skills and understanding of these fundamental concepts.
+
+Feel free to explore the questions, solve them, and compare your solutions with others in the community. Contributions, improvements, and discussions are highly encouraged!
+
+## Topics
+
+The following DSA topics are included in this repository:
+
+1. [Arrays](./arrays)
+2. [Strings](./strings)
+3. [Stacks](./stacks)
+4. [Queues](./queues)
+5. [Linked Lists](./linked-lists)
+6. [Recursion](./recursion)
+7. [Dynamic Programming](./dynamic-programming)
+8. [Graphs](./graphs)
+9. [Trees](./trees)
+
+Each topic directory contains its own set of practice questions and solutions. You can navigate to each directory to find specific questions related to that topic.
+
+## Getting Started
+
+To get started with this repository, follow these steps:
+
+1. Clone the repository to your local machine:
+2. 
+   git clone https://github.com/AbhishekU19/Data Structures and Algorithms.git
+
+Contributing
+Contributions to this repository are welcome! Whether you want to add more practice questions, improve existing solutions, or fix any issues, please follow these steps:
+
+Fork the repository to your GitHub account.
+Create a new branch for your contributions:
+
+git checkout -b feature/your-feature-name
+Make your changes, add your solutions, or make improvements.
+
+Commit your changes with meaningful commit messages:
+
+git commit -m "Add solution for problem X" or "Improve algorithm for problem Y"
+Push your changes to your forked repository:
+
+git push origin feature/your-feature-name
+Create a pull request (PR) to the original repository, explaining your changes and improvements.
+
+Your PR will be reviewed, and once approved, it will be merged into the main repository.
