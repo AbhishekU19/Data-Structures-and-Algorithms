@@ -1,4 +1,6 @@
 public class LinkedList {
+
+// Linked List Implementation
     public static class Node {
         int data;
         Node next;
