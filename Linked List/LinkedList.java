@@ -1,6 +1,10 @@
 public class LinkedList {
 
+<<<<<<< HEAD
     // Node class represents each element in the Linked List
+=======
+// Linked List Implementation
+>>>>>>> b1ad85f5c613b3601059e6a8ee0c449c26e8e5d7
     public static class Node {
         int data;
         Node next;
